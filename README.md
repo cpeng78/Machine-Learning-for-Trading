@@ -9,19 +9,19 @@ The final project "strategy_evaluation" implemented a manual trading strategy an
 The trading strategies is backtested and compared with the market simulater implemented in project "marketsim". 
 
 
+## Projects: 
+- **Project 1**: [Martingale](martingale)
 
-Project 1: [Martingale](martingale/)
+- **Project 2**: [Optimize Something](optimize_something)
 
-Project 2: Optimize Something
+- **Project 3**: [Assess Learners](assess_learners)
 
-Project 3: Assess Learners
+- **Project 4**: [Defeat Learners](defeat_learners)
 
-Project 4: Defeat Learners
+- **Project 5**: [Marketsim](marketsim)
 
-Project 5: Marketsim
+- **Project 6**: [Indicator Evaluation](indicator_evaluation)
 
-Project 6: Indicator Evaluation
+- **Project 7**: [Qlearning Robot](qlearning_robot)
 
-Project 7: Qlearning Robot
-
-Project 8: Strategy Evaluation
+- **Project 8**: [Strategy Evaluation](strategy_evaluation)
