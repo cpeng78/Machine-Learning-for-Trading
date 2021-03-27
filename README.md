@@ -26,7 +26,7 @@ The trading strategies is backtested and compared with the market simulater impl
 
 - **Project 8**: [Strategy Evaluation](strategy_evaluation)
 
-## Local Environment:
+## Dependencies for Running Locally:
 ```
 name: ml4t
 dependencies:
