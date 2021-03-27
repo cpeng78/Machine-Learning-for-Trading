@@ -50,3 +50,7 @@ dependencies:
   - pprofile==2.0.2
   - jsons==0.8.8
 ```
+To test your code, you’ll need to set up your PYTHONPATH to include the grading module and the utility module util.py, which are both one directory up from the project directories. Here’s an example of how to run the grading script for the optional (deprecated) assignment Assess Portfolio (note, grade_anlysis.py is included in the template zip file for Assess Portfolio):
+```
+PYTHONPATH=../:. python grade_analysis.py
+```
