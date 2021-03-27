@@ -1,0 +1,55 @@
+Questions
+
+Question 1
+Answer: 5 points
+Response: 5 points
+Comments:
+Good job.
+
+Question 2
+Answer: 5 points
+Response: 5 points
+Comments:
+Good Job.
+
+Question 3
+Answer: 0 points
+Response: 0 points
+Comments:
+Are the questions answered correctly? (Up to -5 points for each incorrect answer)  Is the reasoning for each question correct and supported by the evidence thoroughly? (Up to -5 points for each if incorrect).    If you look at your graphs, you can see that the mean and mean +/- std. dev do converge to a single value.  Because there is an unlimited bank roll, all trials eventually end at $80, and the standard deviation goes to 0.
+
+Question 4
+Answer: 5 points
+Response: 5 points
+Comments:
+Good job.
+
+Question 5
+Answer: 5 points
+Response: 5 points
+Comments:
+Good job.
+
+Question 6
+Answer: 5 points
+Response: 5 points
+Comments:
+Good job.
+
+
+Charts
+
+Chart 1: 8 points
+Chart 2: 8 points
+Chart 3: 8 points
+Chart 4: 8 points
+Chart 5: 8 points
+Comments
+Good job, all reports correct.
+
+
+Code
+
+Code Deductions: 0 points
+Comments:
+No Deductions
