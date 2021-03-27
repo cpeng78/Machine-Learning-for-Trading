@@ -27,6 +27,18 @@ The trading strategies is backtested and compared with the market simulater impl
 - **Project 8**: [Strategy Evaluation](strategy_evaluation). This project implements a Manual Strategy (manual rule based trader) by using the intuition and the indicators selected from project 6, and a strategy learner using the Random Forest learner. The project tests them against a stock using the market simulator. See [report](strategy_evaluation/report.pdf) for details.
 
 ## Dependencies for Running Locally:
+
+The projects are in Python (version 3.6), and rely heavily on a few important libraries. These libraries are under active development, which unfortunately means there can be some compatibility issues between versions.
+
+To create an environment for these projects:
+```
+conda env create --file environment.yml
+```
+Activate the new environment:
+```
+conda activate ml4t
+```
+The list of each library and its version number provided in the conda environment format:
 ```
 name: ml4t
 dependencies:
@@ -50,7 +62,8 @@ dependencies:
   - pprofile==2.0.2
   - jsons==0.8.8
 ```
-To test your code, you’ll need to set up your PYTHONPATH to include the grading module and the utility module util.py, which are both one directory up from the project directories. Here’s an example of how to run the grading script for the optional (deprecated) assignment Assess Portfolio (note, grade_anlysis.py is included in the template zip file for Assess Portfolio):
+To test the code, you’ll need to set up your PYTHONPATH to include the grading module and the utility module util.py, which are both one directory up from the project directories. Here’s an example of how to run the grading script for the optional (deprecated) assignment Assess Portfolio (note, grade_anlysis.py is included in the template zip file for Assess Portfolio):
 ```
 PYTHONPATH=../:. python grade_analysis.py
 ```
+which assumes you’re typing from the folder ML4T_2020Fall/assess_portfolio/. This will print out a lot of information, and will also produce two text files: points.txt and comments.txt. It will probably be helpful to scan through all of the output printed out in order to trace errors to your code, while comments.txt will contain a succinct summary of which test cases failed and the specific errors (without the backtrace).
